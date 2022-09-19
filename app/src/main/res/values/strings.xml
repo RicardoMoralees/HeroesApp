@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comics">Comics:</string>
+    <string name="series">Series:</string>
+    <string name="main_fragment_title">Marvel Heroes</string>
+    <string name="detail_fragment_title">Hero detail</string>
+</resources>
